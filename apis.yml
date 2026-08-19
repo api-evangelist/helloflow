@@ -25,7 +25,7 @@ x-domain-status: parked
 x-domain-status-note: 'helloflow.io resolves to a parked/for-sale page (NS ns1/ns2-coming-soon.sav.com,
   parklogic.com redirect) as of 2026-07-20; no live developer surface, API, docs, or .well-known
   documents. Company appears defunct or moved off this domain. No artifacts to harvest.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
